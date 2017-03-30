@@ -1,0 +1,7 @@
+Makefile.PL
+MANIFEST
+t/SmsClient.t
+lib/SmsClient.pm
+etc/test.pl
+readme_rus.odt
+README

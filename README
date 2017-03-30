@@ -1,0 +1,23 @@
+SmsClient version 0.01
+=====================
+
+Perl module for working with SMS-messages
+
+INSTALLATION
+
+To install this module type the following:
+
+   perl Makefile.PL
+   make
+   make test
+   make install
+
+DEPENDENCIES
+
+This module requires these other modules and libraries:
+
+  JSON::XS
+  Net::SSLeay
+  LWP::Protocol::https
+  LWP::UserAgent
+
